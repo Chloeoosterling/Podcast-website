@@ -1,0 +1,65 @@
+h1{
+    padding: 30px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    background-color: rgb(222, 104, 183);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+    border-radius: 25px;
+    max-width: 33%;
+    text-align: center;
+
+}
+
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    width: 10%;
+    font-style: italic; ;
+    color: white;
+   margin-right: 2%;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: #2f2e2e;
+    border-radius: 50px;
+    font-size: 15px;
+    
+    
+    
+}
+a:hover{
+    background-color: blueviolet;
+    padding: 15px;
+    font-size: 15px;  
+    
+
+}
+
+body{
+    background-position: 50% 20%;
+    font: 100%;
+    margin: 0;
+    padding: 2em;
+}
+section{
+    margin: 0 auto;
+    border-radius: 5em;
+    padding: 2em;
+    width: 30%;
+    background-color: pink;
+    opacity: 50%;
+}
+
+H1, h2{
+    margin-top: 0;
+    opacity: 100%;
+    text-align: center;
+}
+
+
+
